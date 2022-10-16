@@ -1,6 +1,7 @@
 /** @format */
 
 window.animations = [
+	{ name: 'ashishMotion', author: 'dev-AshishRanjan' },
 	{ name: 'Animadeu', author: 'Amad3eu' },
 	{ name: 'Anubhav-developerMation', author: 'Anubhav-developr' },
 	{ name: 'aberration', author: 'cnsumner' },
@@ -399,5 +400,4 @@ window.animations = [
 	{ name: 'zoomInLeft', author: 'fernandosutter' },
 	{ name: 'zoomOut', author: 'Biafer' },
 	{ name: 'zoomright', author: 'sunny-aguilar' },
-	{ name: 'rgb-text-color', author: 'Nicolas734'}
 ];
